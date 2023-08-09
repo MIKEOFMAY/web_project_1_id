@@ -1,0 +1,96 @@
+.khan__author {
+/*Box model stuff*/
+  margin: 0;
+/*Typography stuff*/
+  font-size: 30px;
+  font-weight: normal;
+/*Miscellaneous*/
+  line-height: 42px;
+}
+
+.khan__book-container {
+/*Display stuff*/
+  display: flex;
+/*Box model stuff*/
+  max-height: 608px;
+}
+
+.khan__book-pic {
+/*Box model stuff*/
+  max-width: 620px;
+  margin-right: 48px;
+/*Miscellaneous*/
+  object-fit: cover;
+  object-position: top;
+}
+
+.khan__buy-link {
+/*Display stuff*/
+  align-self: flex-start;
+/*Typography stuff*/
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed;
+/*Manipulations stuff*/
+  transition: opacity 0.3s linear;
+  opacity: 1;
+/*Miscellaneous*/
+  line-height: 42px;
+}
+
+
+
+.khan__container {
+/*Box model stuff*/
+  width: 80%;
+  margin: 0 auto;
+}
+
+.khan__quote {
+/*Box model stuff*/
+  max-width: 790px;
+  margin: 0 0 36px;
+/*Typography stuff*/
+  font-size: 24px;
+  font-weight: normal;
+/*Miscellaneous*/
+  line-height: 34px;
+}
+
+.khan__quote-author {
+/*Box model stuff*/
+  margin: 0 0 10px;
+/*Typography stuff*/
+  font-size: 24px;
+  font-weight: bold;
+/*Miscellaneous*/
+  line-height: 1.15;
+}
+
+.khan__quote-author-subline {
+/*Box model stuff*/
+  margin: 0 0 68px;
+/*Typography stuff*/
+  font-size: 24px;
+  font-weight: normal;
+/*Miscellaneous*/
+  line-height: 1.15;
+}
+
+.khan__title {
+/*Box model stuff*/
+  margin: 0 0 50px;
+/*Typography stuff*/
+  font-size: 60px;
+  font-weight: bold;
+/*Miscellaneous*/
+  line-height: 1.15;
+}
+
+.khan {
+/*Box model stuff*/
+  margin: 0;
+  padding-top: 105px;
+  background-color: #f2f2f2;
+}
