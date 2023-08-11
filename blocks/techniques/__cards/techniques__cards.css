@@ -1,0 +1,14 @@
+@import url('./__description/techniques__cards-description.css');
+@import url('./__image/techniques__cards-image.css');
+@import url('./__item/techniques__cards-item.css');
+@import url('./__title/techniques__cards-title.css');
+
+
+.techniques__cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  width: 1100px;
+}

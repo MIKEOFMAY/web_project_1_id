@@ -1,0 +1,10 @@
+.footer__column-heading {
+  /*Box model stuff*/
+  margin: 0 0 20px;
+  /*Typography stuff*/
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  /*Miscellaneous*/
+  line-height: 45px;
+}

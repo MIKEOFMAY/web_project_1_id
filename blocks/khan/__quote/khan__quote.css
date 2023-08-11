@@ -1,0 +1,12 @@
+
+.khan__quote {
+  /*Box model stuff*/
+    max-width: 790px;
+    margin: 0 0 36px;
+  /*Typography stuff*/
+    font-size: 24px;
+    font-weight: normal;
+  /*Miscellaneous*/
+    line-height: 34px;
+  }
+  

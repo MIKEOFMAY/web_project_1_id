@@ -1,0 +1,17 @@
+
+.khan__buy-link {
+  /*Display stuff*/
+    align-self: flex-start;
+  /*Typography stuff*/
+    font-size: 30px;
+    font-weight: normal;
+    text-decoration: none;
+    color: #2f80ed;
+  /*Manipulations stuff*/
+    transition: opacity 0.3s linear;
+    opacity: 1;
+  /*Miscellaneous*/
+    line-height: 42px;
+  }
+
+  

@@ -1,3 +1,5 @@
+@import url('./__triangle/kaufman__triangle.css');
+
 .kaufman {
   /*Positioning stuff*/
   position: relative;
@@ -10,63 +12,10 @@
   overflow: hidden;
 }
 
-.kaufman__triangle {
-  /*Positioning stuff*/
-  position: absolute;
-  right: -210px;
-  top: 0;
-  z-index: -1;
-  /*Box model stuff*/
-  width: 636px;
-  height: 660px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  /*Manipulations stuff*/
-  animation: rotation linear 20s infinite;
-}
 
-.table {
-  max-width: 1100px;
-  list-style-type: none;
-  padding: 0;
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
 
-.table__text {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  margin: 20px 0 0;
-}
 
-.table__text_theme_dark {
-  color: #fff;
-}
-.table__heading {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-  margin: 0;
-}
 
-.table__heading_theme_dark {
-  color: #fff;
-}
-.table__cell {
-  width: 250px;
-  margin-top: 60px;
-}
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-top: 80px;
-}
-.section-title_theme_dark {
-  color: #fff;
-}
-.section-subtitle_theme_dark {
-  color: #fff;
-}
+
+
+

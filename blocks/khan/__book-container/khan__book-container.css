@@ -1,0 +1,8 @@
+
+.khan__book-container {
+  /*Display stuff*/
+    display: flex;
+  /*Box model stuff*/
+    max-height: 608px;
+  }
+  

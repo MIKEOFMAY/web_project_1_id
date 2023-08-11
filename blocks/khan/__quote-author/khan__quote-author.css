@@ -1,0 +1,10 @@
+.khan__quote-author {
+  /*Box model stuff*/
+    margin: 0 0 10px;
+  /*Typography stuff*/
+    font-size: 24px;
+    font-weight: bold;
+  /*Miscellaneous*/
+    line-height: 1.15;
+  }
+  

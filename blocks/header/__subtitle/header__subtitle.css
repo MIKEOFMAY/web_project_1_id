@@ -1,0 +1,15 @@
+.header__subtitle {
+  /*Positioning stuff*/
+    position: absolute;
+    left: 64px;
+    bottom: 30px;
+    z-index: 1;
+  /*Box model stuff*/
+    max-width: 400px;
+    margin: 0;
+  /*Typography stuff*/
+    font-size: 18px;
+    font-weight: normal;
+  /*Miscellaneous*/
+    line-height: 25px;
+  }

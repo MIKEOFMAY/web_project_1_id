@@ -1,0 +1,9 @@
+.khan__author {
+  /*Box model stuff*/
+    margin: 0;
+  /*Typography stuff*/
+    font-size: 30px;
+    font-weight: normal;
+  /*Miscellaneous*/
+    line-height: 42px;
+  }

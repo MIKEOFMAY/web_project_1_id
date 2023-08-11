@@ -1,0 +1,9 @@
+
+.khan__book-pic {
+  /*Box model stuff*/
+    max-width: 620px;
+    margin-right: 48px;
+  /*Miscellaneous*/
+    object-fit: cover;
+    object-position: top;
+  }

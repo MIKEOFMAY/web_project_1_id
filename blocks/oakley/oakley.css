@@ -1,31 +1,9 @@
+@import url("./__brief/oakley__brief.css");
+@import url("./__columns/oakley__columns.css");
+@import url("./__main-text/oakley__main-text.css");
+@import url("./__paragraph/oakley__paragraph.css");
+
 .oakley {
   background-color: #f2f2f2;
   padding-top: 160px;
-}
-.oakley__columns {
-  display: flex;
-  justify-content: space-between;
-  margin: 0 auto;
-  width: 80%;
-}
-
-.oakley__brief {
-  color: #2f80ed;
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 1.2;
-  margin-top: 0;
-  width: 175px;
-}
-
-.oakley__main-text {
-  max-width: 80%;
-  min-width: 784px;
-}
-
-.oakley__paragraph {
-  font-size: 24px;
-  font-weight: normal;
-  line-height: 34px;
-  margin: 0 0 0;
 }

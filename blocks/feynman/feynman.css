@@ -1,3 +1,9 @@
+@import url("./__title/feynman__title.css");
+@import url("./__subtitle/feynman__subtitle.css");
+@import url("./__link-learn-more/feynman__link-learn-more.css");
+@import url("./__images/feynman__image.css");
+
+
 .feynman {
   align-items: center;
   background-color: #f2f2f2;
@@ -11,48 +17,7 @@
   position: relative;
 }
 
-.feynman__image {
-  bottom: 0;
-  display: flex;
-  height: 608px;
-  left: 0;
-  margin-top: 30px;
-  position: absolute;
-  width: 765px;
-  z-index: 0;
-}
-.feynman__title {
-  display: flex;
-  font-size: 120px;
-  font-weight: bold;
-  line-height: 1.15;
-  margin-top: 100px;
-  margin: 0 auto;
-  max-width: 775px;
-  text-align: center;
-  z-index: 1;
-}
 
-.feynman__subtitle {
-  display: flex;
-  font-size: 36px;
-  font-weight: normal;
-  line-height: 51px;
-  margin: 70px auto 0;
-  text-align: center;
-  z-index: 1;
-}
 
-.feynman__link-learn-more {
-  color: #2f80ed;
-  display: flex;
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 51px;
-  position: absolute;
-  right: 48px;
-  text-align: right;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 1;
-}
+
+

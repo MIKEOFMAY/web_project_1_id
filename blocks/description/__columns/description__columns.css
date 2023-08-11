@@ -1,0 +1,8 @@
+.description__columns {
+  /*Display stuff*/
+  display: flex;
+  justify-content: space-between;
+  /*Box model stuff*/
+  width: 80%;
+  margin: 0 auto;
+}

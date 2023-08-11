@@ -1,0 +1,25 @@
+.header__link {
+  /*Positioning stuff*/
+    position: absolute;
+    left: 64px;
+    bottom: 10px;
+    z-index: 1;
+  /*Box model stuff*/
+    max-width: 389px;
+    margin: 0;
+  /*Typography stuff*/
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: none;
+    color: #2f80ed;
+  /*Manipulations stuff*/
+    transition: opacity 0.3s linear;
+    opacity: 1;
+  /*Miscellaneous*/
+    line-height: 25px;
+  }
+
+  .header__link:hover {
+  /*Manipulations stuff*/
+    opacity: 0.5;
+  }

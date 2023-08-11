@@ -1,0 +1,9 @@
+.table__text {
+  /*Box model stuff*/
+  margin: 20px 0 0;
+  /*Typography stuff*/
+  font-size: 18px;
+  font-weight: normal;
+  /*Miscellaneous*/
+  line-height: 1.2;
+}

@@ -1,35 +1,8 @@
-.resources__logo {
-  height: 38px;
-  opacity: 1;
-  transition: opacity 0.3s linear;
-  width: 270px;
-}
+@import url('./resources-title/resources-title.css');
+@import url('./resources-subtitle/resources-subtitle.css');
+@import url('./__logo/resources__logo.css');
+@import url('./__logo-zone/resources__logo-zone.css');
 
-.resources__logo:hover {
-  opacity: 0.5;
-}
-.resources__logo-zone {
-  display: flex;
-  list-style-type: none;
-  margin: 80px auto 0;
-  max-width: 1100px;
-}
 .resources {
   margin: 100px 0 217px;
-}
-.resources-title {
-  text-align: center;
-  line-height: 69px;
-  font-size: 60px;
-  font-weight: bold;
-  width: 60%;
-  margin: 0 auto;
-}
-.resources-subtitle {
-  text-align: center;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  width: 60%;
-  margin: 20px auto 0;
 }

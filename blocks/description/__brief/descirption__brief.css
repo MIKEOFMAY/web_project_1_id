@@ -1,0 +1,11 @@
+.description__brief {
+  /*Box model stuff*/
+  width: 175px;
+  margin-top: 0;
+  /*Typography stuff*/
+  font-size: 18px;
+  font-weight: normal;
+  color: #2f80ed;
+  /*Miscellaneous*/
+  line-height: 1.2;
+}

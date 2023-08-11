@@ -1,66 +1,20 @@
+@import url("./section/section-title.css");
+@import url("./section/section-subtitle.css");
+@import url("./table/__heading/table__heading.css");
+@import url("./table/__cell/table__cell.css");
+@import url("./table/__text/table__text.css");
+
+
 .digits {
   /*Box model stuff*/
   margin: 100px 0;
 }
-.section-subtitle {
-  /*Box model stuff*/
-  width: 60%;
-  margin: 20px auto 0;
-  /*Typography stuff*/
-  font-size: 24px;
-  font-weight: normal;
-  text-align: center;
-  /*Miscellaneous*/
-  line-height: 34px;
-}
 
-.section-title {
-  /*Box model stuff*/
-  width: 60%;
-  margin: 0 auto;
-  /*Typography stuff*/
-  font-size: 60px;
-  font-weight: bold;
-  text-align: center;
-  /*Miscellaneous*/
-  line-height: 69px;
-}
 
-.table {
-  /*Display stuff*/
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  /*Box model stuff*/
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0;
-  /*Miscellaneous*/
-  list-style-type: none;
-}
 
-.table__text {
-  /*Box model stuff*/
-  margin: 20px 0 0;
-  /*Typography stuff*/
-  font-size: 18px;
-  font-weight: normal;
-  /*Miscellaneous*/
-  line-height: 1.2;
-}
 
-.table__heading {
-  /*Box model stuff*/
-  margin: 0;
-  /*Typography stuff*/
-  font-size: 24px;
-  font-weight: bold;
-  /*Miscellaneous*/
-  line-height: 1.15;
-}
 
-.table__cell {
-  /*Box model stuff*/
-  width: 250px;
-  margin-top: 60px;
-}
+
+
+
+

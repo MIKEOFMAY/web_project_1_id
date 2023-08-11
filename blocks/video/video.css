@@ -1,19 +1,7 @@
-.video__iframe {
-  border: 0;
-  height: 316px;
-  margin-right: 20px;
-  width: 515px;
-}
 
-.video__iframe:last-child {
-  margin-right: 0;
-}
+@import url('./__iframes/video__iframes.css');
+@import url('./__iframe/video__iframe.css');
 
-.video__iframes {
-  display: flex;
-  justify-content: center;
-  margin-top: 50px;
-}
 
 .video {
   margin: 100px auto -60px;

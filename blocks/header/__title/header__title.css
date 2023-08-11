@@ -1,0 +1,10 @@
+.header__title {
+  /*Box model stuff*/
+    max-width: 730px;
+    margin-left: 64px;
+  /*Typography stuff*/
+    font-size: 102px;
+    font-weight: bold;
+  /*Miscellaneous*/
+    line-height: 96px;
+  }

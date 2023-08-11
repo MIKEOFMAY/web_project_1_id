@@ -1,0 +1,13 @@
+.feynman__link-learn-more {
+  color: #2f80ed;
+  display: flex;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 51px;
+  position: absolute;
+  right: 48px;
+  text-align: right;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+}

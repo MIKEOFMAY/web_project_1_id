@@ -1,0 +1,20 @@
+.footer__link {
+  /*Display stuff*/
+  display: flex;
+  /*Typography stuff*/
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #fff;
+  /*Manipulations stuff*/
+  transition: opacity 0.3s linear;
+  opacity: 1;
+  /*Miscellaneous*/
+  line-height: 30px;
+  align-items:center;
+}
+
+.footer__link:hover {
+  /*Manipulations stuff*/
+  opacity: 0.5;
+}

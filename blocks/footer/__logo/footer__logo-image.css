@@ -1,0 +1,12 @@
+.footer__logo-image {
+  /*Display stuff*/
+  display: flex;
+  /*Positioning stuff*/
+  position: relative;
+  z-index: 1;
+  /*Box model stuff*/
+  width: 154px;
+  height: 31px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

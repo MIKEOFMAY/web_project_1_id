@@ -1,0 +1,14 @@
+.kaufman__triangle {
+  /*Positioning stuff*/
+  position: absolute;
+  right: -210px;
+  top: 0;
+  z-index: -1;
+  /*Box model stuff*/
+  width: 636px;
+  height: 660px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*Manipulations stuff*/
+  animation: rotation linear 20s infinite;
+}

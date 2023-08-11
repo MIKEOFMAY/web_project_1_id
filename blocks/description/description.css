@@ -1,54 +1,17 @@
+@import url('./__brief/descirption__brief.css');
+@import url('./__columns/description__columns.css');
+@import url('./__main-text/description__main-text.css');
+@import url('./__span-accent/description__span-accent.css');
+@import url('./__paragraph/description__paragraph.css');
+@import url('./__paragraph/description__paragraph--first-child.css');
+
 .description {
   /*Box model stuff*/
   margin-top: 100px;
 }
 
-.description__columns {
-  /*Display stuff*/
-  display: flex;
-  justify-content: space-between;
-  /*Box model stuff*/
-  width: 80%;
-  margin: 0 auto;
-}
 
-.description__brief {
-  /*Box model stuff*/
-  width: 175px;
-  margin-top: 0;
-  /*Typography stuff*/
-  font-size: 18px;
-  font-weight: normal;
-  color: #2f80ed;
-  /*Miscellaneous*/
-  line-height: 1.2;
-}
 
-.description__main-text {
-  /*Box model stuff*/
-  max-width: 80%;
-  min-width: 784px;
-}
 
-.description__span-accent {
-  /*Typography stuff*/
-  font-size: 24px;
-  font-weight: bold;
-  /*Miscellaneous*/
-  line-height: 34px;
-}
 
-.description__paragraph {
-  /*Box model stuff*/
-  margin: 30px 0 0;
-  /*Typography stuff*/
-  font-size: 24px;
-  font-weight: normal;
-  /*Miscellaneous*/
-  line-height: 34px;
-}
 
-.description__paragraph:first-child {
-  /*Box model stuff*/
-  margin-top: 0;
-}
