@@ -8,3 +8,8 @@
   line-height: 34px;
 }
 
+
+.description__paragraph:first-child {
+  /*Box model stuff*/
+  margin-top: 0;
+}

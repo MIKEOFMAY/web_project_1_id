@@ -3,7 +3,7 @@
 @import url('./__main-text/description__main-text.css');
 @import url('./__span-accent/description__span-accent.css');
 @import url('./__paragraph/description__paragraph.css');
-@import url('./__paragraph/description__paragraph--first-child.css');
+@import url('./description.css');
 
 .description {
   /*Box model stuff*/
