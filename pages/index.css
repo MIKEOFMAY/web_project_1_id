@@ -1,4 +1,7 @@
-/* Importing external CSS files */
+@import url("../vendor/normalize.css");
+
+@import url("../blocks/page/page.css");
+
 @import url("../blocks/description/description.css");
 
 @import url("../blocks/digits/digits.css");
@@ -11,28 +14,27 @@
 
 @import url("../blocks/kaufman/kaufman.css");
 
-@import url('../blocks/section/section-title_theme_dark.css');
-
-@import url('../blocks/section/section-subtitle_theme_dark.css');
-
 @import url("../blocks/khan/khan.css");
+
+@import url("../blocks/logo/logo.css");
 
 @import url("../blocks/oakley/oakley.css");
 
 @import url("../blocks/resources/resources.css");
 
+@import url("../blocks/section/section-title_theme_dark.css");
+
+@import url("../blocks/section/section-subtitle_theme_dark.css");
+
+@import url("../blocks/table/table.css");
+
 @import url("../blocks/techniques/techniques.css");
 
 @import url("../blocks/video/video.css");
 
-@import url("../video/video.css");
 
-@import url('../blocks/logo/logo.css');
 
-@import url('../blocks/page/page.css');
-
-@import url('../blocks/digits/table/table.css');
-
-@import url('../blocks/table/table.css');
-
-@import url('../vendor/normalize.css');
+@import url('../blocks/description/__paragraph/description__paragraph.css');
+@import url('../blocks/digits/section/section-subtitle.css');
+@import url('../blocks/feynman/__images/feynman__image.css');
+@import url('../');

@@ -1,14 +1,15 @@
-@import url("./section/section-title.css");
-@import url("./section/section-subtitle.css");
-@import url("./table/__heading/table__heading.css");
-@import url("./table/__cell/table__cell.css");
-@import url("./table/__text/table__text.css");
-@import url('./digits.css');
+@import url('./table/tables.css');
+@import url('./section/section-title.css');
+@import url('./section/section-subtitle.css');
+
+
+
 
 .digits {
   /*Box model stuff*/
   margin: 100px 0;
 }
+
 
 
 
