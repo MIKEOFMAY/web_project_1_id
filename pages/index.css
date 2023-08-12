@@ -12,10 +12,10 @@
 
 @import url(../blocks/digits/digits.css);
 
-@import url(../blocks/digits/table/__cell/table__cell.css);
-@import url(../blocks/digits/table/__heading/table__heading.css);
-@import url(../blocks/digits/table/__text/table__text.css);
-@import url(../blocks/digits/table/tables.css);
+@import url(../blocks/digits/tables/__cell/tables__cell.css);
+@import url(../blocks/digits/table/__heading/tables__heading.css);
+@import url(../blocks/digits/tables/__text/tables__text.css);
+@import url(../blocks/digits/tables/tables.css);
 @import url(../blocks/digits/section/section-title.css);
 @import url(../blocks/digits/section/section-subtitle.css);
 
