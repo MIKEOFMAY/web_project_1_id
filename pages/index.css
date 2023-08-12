@@ -15,6 +15,7 @@
 @import url(../blocks/digits/table/__cell/table__cell.css);
 @import url(../blocks/digits/table/__heading/table__heading.css);
 @import url(../blocks/digits/table/__text/table__text.css);
+@import url(../blocks/digits/table/tables.css);
 @import url(../blocks/digits/section/section-title.css);
 @import url(../blocks/digits/section/section-subtitle.css);
 
@@ -28,7 +29,7 @@
 @import url(../blocks/footer/footer.css);
 
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__column-content/footer__column-content_copyright);
+@import url(../blocks/footer/__column-content/footer__column-content_copyright.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
@@ -79,8 +80,6 @@
 @import url(../blocks/resources/resources-subtitle/resources-subtitle.css);
 @import url(../blocks/resources/resources-title/resources-title.css);
 
-@import url(../blocks/section/section-title_theme_dark.css);
-
 @import url(../blocks/section/section-subtitle_theme_dark.css);
 @import url(../blocks/section/section-title_theme_dark.css);
 
@@ -98,6 +97,7 @@
 @import url(../blocks/techniques/__cards/__item/techniques__cards-item.css);
 @import url(../blocks/techniques/__cards/__title/techniques__cards-title.css);
 @import url(../blocks/techniques/__subtitle/techniques__subtitle.css);
+@import url(../blocks/techniques/__cards/techniques__cards.css);
 @import url(../blocks/techniques/__title/techniques__title.css);
 
 @import url(../blocks/video/video.css);
